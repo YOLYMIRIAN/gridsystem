@@ -66,7 +66,8 @@ h1 a{
     list-style: none;
     margin: 0;
     padding: 0;
-    vertical-align: top; 
+    vertical-align: top;
+    
     
 }
 .lista-contenido li{
@@ -83,6 +84,8 @@ h1 a{
 }
 .lista-contenido li img{
     width: 100%;
+    border: 1px solid #F8F8FF;
+    padding: 3px;
 }
 .link-navegacion li img{
     width: 20px;
